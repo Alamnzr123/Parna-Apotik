@@ -1,0 +1,14 @@
+{
+  "name": "parna-apotik",
+  "version": "1.0.0",
+  "description": "Apotik Web Application are using HTML 5, CSS, Javascript with feature CRUD and Authorization Admin and Customer",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "email": "nzr.rahmad@gmail.com",
+    "name": "Rahmad Alamsyah Nazaruddin"
+  },
+  "license": "ISC"
+}
