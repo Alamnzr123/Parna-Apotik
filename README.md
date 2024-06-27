@@ -15,4 +15,4 @@ Parna Pharmacy is a web application that sell common drugs with Admin and Custom
 
 ## Deploy on Vercel
 
-https://submission-fe-beginner.vercel.app/
+https://parna-apotik.vercel.app/
